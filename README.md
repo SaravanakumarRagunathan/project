@@ -5,7 +5,9 @@
 
 [GitHub] · [LinkedIn]· [Email]
 
+
   👨‍💻 About Me
+  
 
 - 🎓 What I Study:** Electronics and Communication Engineering (ECE) at St. Joseph’s College of Engineering.
 - 💻 What I’m Learning:** C programming, Python fundamentals, and problem-solving.
@@ -15,24 +17,34 @@
 
 
  📌 Featured Projects
+ 
 
 ⚙️ C Programming Practice
 
+
 A collection of C exercises covering basic syntax, conditions, loops, arrays, functions, and problem-solving.
+
 
 Topics:  C · Algorithms · Programming Fundamentals
 
+
 🐍 Python Learning Projects
+
 
 Small Python programs created while practising core syntax, logic, and automation basics.
 
+
 Topics: Python · Problem Solving · Beginner Automation
 
+
  🔌 Electronics and Embedded Systems
+ 
 
 A space for documenting circuit experiments and future microcontroller or IoT projects as they are built.
 
+
 Topics: Electronics · IoT · Embedded Systems
+
 
 
 
@@ -44,9 +56,12 @@ Topics: Electronics · IoT · Embedded Systems
 
 
  📊 GitHub Activity and Statistics
+ 
 
-Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username to display your GitHub statistics
+Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username to display your GitHub statistics.
+
 
  📬 Connect With Me
+ 
 
 I'm interested in learning, experimenting, and building useful technology through programming and electronics.
